@@ -1,16 +1,27 @@
-# Halo semua! 
+# Hi, I'm Delta 👋
 
-Perkenalkan nama saya **Berilian Delta Septana**.<br>
+🎓 Fresh Graduate Statistics at Universitas Padjadjaran
 
-Saya merupakan mahasiswa sarjana di Universitas Padjadjaran, program studi Statistika.<br>
+📊 Aspiring Data Analyst
 
-Saya adalah **cohort** di Coding Camp 2025 [Dicoding](https://www.dicoding.com/).<br>
+I enjoy transforming raw data into actionable insights and building data-driven solutions using modern tools.
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/berilian-delta-septana/)ku ya.
+## 🛠️ Tech Stack
 
-<p align="left">
-<a href="https://github.com/Delta-Avero">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&theme=algolia"/>
-</a>
-</p>
+* Python (Pandas, NumPy, Matplotlib, Seaborn)
+* SQL
+* Excel
+* Power BI
+* Machine Learning (Scikit-learn, TensorFlow)
+
+## 📌 Featured Projects
+
+* ☕ Coffee Sales Analysis
+* 📈 Superstore Sales Analysis
+* 🧠 Sentiment Analysis
+
+## 📫 Contact
+
+* LinkedIn: https://linkedin.com/in/berlian-delta-septana/
+* Email: [deltaseptana@gmail.com](mailto:deltaseptana@gmail.com)
+
