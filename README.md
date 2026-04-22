@@ -17,8 +17,7 @@ I enjoy transforming raw data into actionable insights and building data-driven 
 ## 📌 Featured Projects
 
 * ☕ Coffee Sales Analysis
-* 📈 Superstore Sales Analysis
-* 🧠 Sentiment Analysis
+* 🚗 Car Price Prediction
 
 ## 📫 Contact
 
