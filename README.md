@@ -18,6 +18,7 @@ I enjoy transforming raw data into actionable insights and building data-driven 
 
 * ☕ Coffee Sales Analysis
 * 🚗 Car Price Prediction
+* 🚲 Bike Store Sales Analysis
 
 ## 📫 Contact
 
